@@ -1,4 +1,4 @@
-﻿A legacy template of a network messanger based on mailslots
+﻿A legacy template of a network messenger based on mailslots
 
 # Popupnik
 
